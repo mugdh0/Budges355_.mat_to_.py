@@ -1,5 +1,5 @@
 #import the SciPy Library
-#if not available install using pip install sicpy
+#if not available install using pip install scipy
 import scipy.io as sp
 
 #load the .mat file using loadmat() function, file path is the reqired parameter
